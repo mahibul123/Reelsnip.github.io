@@ -1,16 +1,9 @@
-streamlit
-moviepy
-opencv-python
+streamlit==1.35.0
+moviepy==1.0.3
+opencv-python-headless
 numpy
 Pillow
 pydub
 imageio
 imageio-ffmpeg
 ffmpeg-python
-streamlit 
-asyncio
- platform 
- tempfile
-  os 
-  subprocess
-   math
