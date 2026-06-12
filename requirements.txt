@@ -3,7 +3,6 @@ moviepy==1.0.3
 opencv-python-headless
 numpy
 Pillow
-pydub
 imageio
 imageio-ffmpeg
 ffmpeg-python
