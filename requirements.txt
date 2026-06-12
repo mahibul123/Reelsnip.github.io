@@ -1,0 +1,16 @@
+streamlit
+moviepy
+opencv-python
+numpy
+Pillow
+pydub
+imageio
+imageio-ffmpeg
+ffmpeg-python
+streamlit 
+asyncio
+ platform 
+ tempfile
+  os 
+  subprocess
+   math
